@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseGame", "MorseGame\MorseGame.csproj", "{CCC7B918-224C-4058-8F84-058C57CB1173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC7B918-224C-4058-8F84-058C57CB1173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC7B918-224C-4058-8F84-058C57CB1173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC7B918-224C-4058-8F84-058C57CB1173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC7B918-224C-4058-8F84-058C57CB1173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E757E50-65B8-4B57-B6D8-274AA8979C0A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\bin\Release\MorseGame.exe.config
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\bin\Release\MorseGame.exe
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\bin\Release\MorseGame.pdb
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.MainForm.resources
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.Properties.Resources.resources
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.csproj.GenerateResource.cache
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.csproj.CoreCompileInputs.cache
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.exe
+C:\Users\Mr.stone\source\repos\MorseGame\MorseGame\obj\Release\MorseGame.pdb
